@@ -31,7 +31,6 @@ samples, guidance on mobile development, and a full API reference.
 ![Selected Vehicle Preview](https://github.com/JigneshPatel2510/ev_point/assets/165358388/ae5458b3-1ee0-4cb9-a2f3-120ebd041a14)
 ![Home Page](https://github.com/JigneshPatel2510/ev_point/assets/165358388/ba4a30a7-fc97-4f54-a816-78e75e4e227d)
 ![Saved Station Detail Page](https://github.com/JigneshPatel2510/ev_point/assets/165358388/91946dbd-1807-4734-8170-b2009ba3ef09)
-![Charging Booking Page](https://github.com/JigneshPatel2510/ev_point/assets/165358388/5a142fa1-428c-4c1d-b42f-8a189d87a7dd)
 ![My Wallet Page](https://github.com/JigneshPatel2510/ev_point/assets/165358388/fa3c462f-685f-4943-b634-16928bf4f421)
 ![Account Page](https://github.com/JigneshPatel2510/ev_point/assets/165358388/5521f492-43d9-4e31-8c63-b60465c191a3)
 
